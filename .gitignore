@@ -1,0 +1,18 @@
+# Data (large third-party .mat matrices; hosted on Zenodo, not GitHub)
+*.mat
+
+# Logs
+*.log
+
+# Superseded tuning and run directories
+tuning_old_20260814/
+results/final_20260814_retuned/
+results/final_20260815_retuned/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db

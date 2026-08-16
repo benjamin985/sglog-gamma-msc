@@ -1,0 +1,2 @@
+idx,dataset,lambda1,lambda2,gamma,converged,iterations,final_primal_residual,wall_seconds,finite_ok,nnz_ok,eig_K,eig_Kp1,eigengap,objective
+237,"yale",0.5,1.0000000000000001e-05,24,1,31,6.9588493174766418e-09,15.2989426,1,1,0.2026870811584025,0.19783967556828097,0.004847405590121534,33.171670338556915

@@ -1,0 +1,8 @@
+relative_file,sha256
+"run_bbcsport_sensitivity.m","aa6a1987aaec0ece369a90940fad6ed9b6b4761a5de85a0537b79df34e25a270"
+"code/solve_sglog.m","5ddea0f0abbaa3878ea32ebbfe9b8d8d445aa404fb00c623483d405f14f849fc"
+"code/construct_gradient_operator.m","d904f4a555c862b7dfa0797cea4db2ba5819d3859682a5dc94b96a41f32d93e3"
+"code/prox_l2log_columns.m","8acc10528d751510e5528dc39f1a9783ebe5d5f66ad127655c7292e723105d98"
+"code/prox_gamma_scalar.m","4a6cf0487b6d2beff5d3fa1a810555ed0023c067ce15047447924feecddbabcd"
+"code/prox_tensor_penalty.m","96282263aca622c9b85a13487aa7537ae1a619abd1668ed52c102a52e384e095"
+"code/evaluate_repeated.m","b1b8f0b518ee7ad3bc3b91637b0762781389295a326aa94c42d3b3e750327263"

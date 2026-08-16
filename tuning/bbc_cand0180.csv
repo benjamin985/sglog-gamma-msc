@@ -1,0 +1,2 @@
+idx,dataset,lambda1,lambda2,gamma,converged,iterations,final_primal_residual,wall_seconds,finite_ok,nnz_ok,eig_K,eig_Kp1,eigengap,objective
+180,"bbc",1,0.10000000000000001,24,1,41,6.2715460553476332e-06,37.430691400000001,1,1,0.68483188820589735,0.67174360527475618,0.013088282931141171,470.37178582386548

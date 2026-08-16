@@ -1,0 +1,2 @@
+idx,dataset,lambda1,lambda2,gamma,converged,iterations,final_primal_residual,wall_seconds,finite_ok,nnz_ok,eig_K,eig_Kp1,eigengap,objective
+382,"scene",0.01,0.0001,6,1,33,3.9363508435207878e-06,126.857497,1,1,0.071281261494520284,0.067432977613860606,0.0038482838806596781,6.1450348238052683

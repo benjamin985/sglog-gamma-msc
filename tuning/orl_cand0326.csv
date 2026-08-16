@@ -1,0 +1,2 @@
+idx,dataset,lambda1,lambda2,gamma,converged,iterations,final_primal_residual,wall_seconds,finite_ok,nnz_ok,eig_K,eig_Kp1,eigengap,objective
+326,"orl",0.5,1.0000000000000001e-05,12,1,31,7.9931391416022686e-09,31.821484000000002,1,1,0.13102458993492189,0.12107358932732261,0.009951000607599278,56.667047133874888

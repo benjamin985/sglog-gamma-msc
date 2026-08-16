@@ -1,0 +1,2 @@
+idx,dataset,lambda1,lambda2,gamma,converged,iterations,final_primal_residual,wall_seconds,finite_ok,nnz_ok,eig_K,eig_Kp1,eigengap,objective
+29,"uci",0.01,0.01,12,1,37,9.928385347665114e-06,103.0080384,1,1,0.1898580713770214,0.056472957677863131,0.13338511369915829,25.293116196817177
